@@ -1,0 +1,4 @@
+Mitja de paraules per frase
+20
+Nombre paraules llargues
+329
